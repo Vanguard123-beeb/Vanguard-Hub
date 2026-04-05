@@ -1,1 +1,1 @@
-s
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vanguard123-beeb/Vanguard-Hub/refs/heads/main/BrainrotHeroes2"))()
